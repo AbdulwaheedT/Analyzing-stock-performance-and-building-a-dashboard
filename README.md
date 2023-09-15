@@ -1,3 +1,7 @@
-# Analyzing-stock-performance-and-building-a-dashboard
+## Python Project for Data Science
 
-Code: https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/8c0cb0e4-794a-4e1b-b7d3-f6d4074ae0ec/view?access_token=d223adc38b54485261177f7ed1c5b954f813dde54cc21262c0ff039eb7a185e0&context=cpdaas
+During this project, I assumed the position of a Data Scientist / Data Analyst working on a real-world project.
+I exhibited my skills in Python, the language of choice for data science and analysis. 
+I also used Python basics, data structures, and data manipulation in Python.
+Finally, I created a dashboard in a Jupyter Notebook using Python and modules such as Pandas, Beautiful Soup, and Plotly.
+
